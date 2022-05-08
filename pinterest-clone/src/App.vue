@@ -7,7 +7,7 @@ import TopNav from './TopNav.vue'
 export default {
 components:{
     TopNav,
-}
+} 
 }
 </script>
 

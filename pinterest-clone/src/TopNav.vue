@@ -31,7 +31,7 @@
       <button type="button" class="rounded-full w-6 h-6 hover:bg-light flex items-center justify-center">
            <span class="material-icons text-muted">expand_more</span>
       </button>
-  </div>
+  </div> 
 </template>
 <script>
 export default {
