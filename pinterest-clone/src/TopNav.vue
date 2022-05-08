@@ -2,7 +2,7 @@
   <div class="px-3 py-4 flex items-center justify-between">
       <div class="flex items-center">
           <button class="rounded-full hover:bg-light p-3 items-center justify-center" type="button" name="button">
-             <img src="./assets/images/logo.png" alt="logo" class="h-7 w-7">
+             <img src="./assets/images/logo1.png" alt="logo" class="h-7 w-7">
           </button>
          <button v-for="item in tabItems" 
          :key="item" @click="selecTab=item.key" 
@@ -25,7 +25,7 @@
                <div class="rounded-full h-5 w-5 bg-primary text-white flex items-center justify-center absolute mb-6 ml-5 ">2</div>
           </button>
             <button class="rounded-full hover:bg-light p-3 items-center justify-center" type="button" name="button">
-                 <img src="./assets/images/profil.jpg" alt="pp" class="rounded-full h-7 w-7 mb-1">
+                 <img src="./assets/images/profil1.jpg" alt="pp" class="rounded-full h-7 w-7 mb-1">
           </button>
       </div>
       <button type="button" class="rounded-full w-6 h-6 hover:bg-light flex items-center justify-center">
